@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <NameList>Mvs</NameList>
+  <Cond>1</Cond>
+  <Genre name="Action">
+    <Movie>
+      <Name>Crash</Name>
+      <Released>2005</Released>
+    </Movie>
+  </Genre>
+  <Genre name="Drama">
+    <Movie>
+      <Name>The Departed</Name>
+      <Released>2006</Released>
+    </Movie>
+    <Movie>
+      <Name>The Pursuit of Happyness</Name>
+      <Released>2006</Released>
+    </Movie>
+  </Genre>
+  <Genre name="Comedy">
+    <Movie>
+      <Name>The Bucket List</Name>
+      <Released>2007</Released>
+    </Movie>
+  </Genre>
+</Root>

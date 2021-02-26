@@ -1,0 +1,8 @@
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\bin\Debug\GenerateDocument.exe.config
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\bin\Debug\GenerateDocument.exe
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\bin\Debug\GenerateDocument.pdb
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\obj\Debug\GenerateDocument.csproj.CopyComplete
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\obj\Debug\GenerateDocument.exe
+C:\Users\s_bertailak\source\repos\GenerateDocument\GenerateDocument\obj\Debug\GenerateDocument.pdb
